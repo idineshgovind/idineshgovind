@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idineshgovind
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning HTML
-- 💞️ Instagram (www.instagram.com/i_dinesh_govind)
+- 💞️ Instagram (www.instagram.com/dinesh_ela_2405)
 - 📫 Reach me at (suryadinesh954@gmail.com)
 
 <!---
