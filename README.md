@@ -18,6 +18,4 @@ My name is [Dinesh](https://www.instagram.com/dinesh_ela_2405) and I am an Andro
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-### Here is my Github stats
-
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=idineshgovind)
