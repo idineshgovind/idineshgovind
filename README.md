@@ -16,6 +16,6 @@ My name is [Dinesh](https://www.instagram.com/dinesh_ela_2405) and I am an Andro
 </a>
 <a target="_blank" href="mailto:suryadinesh954@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a><br/>
 
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=idineshgovind)
