@@ -9,7 +9,7 @@ My name is [Dinesh](https://www.instagram.com/dinesh_ela_2405) and I am an Andro
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/dinesh_ela_2405/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
 </a>
 <a target="_blank" href="https://dev.to/idineshgovind/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
