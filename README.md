@@ -3,6 +3,5 @@ My name is [Dinesh](https://www.instagram.com/dinesh_ela_2405) and I am an Andro
 
 
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=idineshgovind)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idineshgovind)
-
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=idineshgovind)
