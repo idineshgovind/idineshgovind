@@ -8,4 +8,3 @@ I'm [Dinesh](https://www.instagram.com/dinesh_ela_2405) and I am an Android deve
 
 #### Here are my github stats
 | <a href="https://github.com/idineshgovind"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idineshgovind&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
