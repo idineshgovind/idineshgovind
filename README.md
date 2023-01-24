@@ -5,3 +5,8 @@ I'm [Dinesh](https://www.instagram.com/dinesh_ela_2405) and I am an Android deve
 
 <a href="https://www.linkedin.com/in/dinesh-g-41b62b241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/dinesh_ela_2405"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+#### Here are my github stats
+
+| <a href="https://github.com/idineshgovind"><img align="center" src="https://github-readme-stats.vercel.app/api?username=idineshgovind&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dinesh's github stats" /></a> | <a href="https://github.com/idineshgovind"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idineshgovind&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
