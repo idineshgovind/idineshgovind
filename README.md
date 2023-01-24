@@ -7,4 +7,4 @@ I'm [Dinesh](https://www.instagram.com/dinesh_ela_2405) and I am an Android deve
 <a href="https://www.instagram.com/dinesh_ela_2405"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 #### Here are my github stats
-| <a href="https://github.com/idineshgovind"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idineshgovind&layout=compact&theme=buefy&hide_border=true" /></a> |
+ <a href="https://github.com/idineshgovind"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idineshgovind&layout=compact&theme=buefy&hide_border=true" /></a> 
