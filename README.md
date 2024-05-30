@@ -10,3 +10,5 @@ I'm [Dinesh](https://www.instagram.com/idineshgovind) and I am a 19 years old An
 
 #### Here are my github stats
  <a href="https://github.com/idineshgovind"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idineshgovind&layout=compact&theme=buefy&hide_border=true" /></a> 
+#### My LinkedIn Badge
+<a href="https://www.linkedin.com/in/idineshgovind?trk=profile-badge"><img src="https://platform.linkedin.com/badges/js/profile.js" alt="LinkedIn Badge" /></a>
