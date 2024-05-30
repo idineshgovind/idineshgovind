@@ -5,7 +5,7 @@ I'm [Dinesh](https://www.instagram.com/idineshgovind) and I am a 19 years old An
 
 <a href="https://www.linkedin.com/in/dinesh-g-41b62b241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/idineshgovind"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.instagram.com/idineshgovind"><img src="https://img.shields.io/twitter/url-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.twitter.com/i_dinesh_govind"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
 #### Here are my github stats
