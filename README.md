@@ -1,5 +1,5 @@
 <h1>Hello World 👋, I'm Dinesh</h1>
-</h3>I am a 19 years old Android developer📱 with experience in Kotlin 👨‍💻. I have a strong foundation in programming principles and a passion for creating user-friendly mobile applications. In my past projects, I have utilized my skills in Kotlin and Android development to create and deliver successful apps to clients. I am constantly seeking to learn and improve my abilities as a developer, and I am excited to continue building my career in the field.</h3>
+</h3>I am a 20 years old Android developer📱 with experience in Kotlin 👨‍💻. I have a strong foundation in programming principles and a passion for creating user-friendly mobile applications. In my past projects, I have utilized my skills in Kotlin and Android development to create and deliver successful apps to clients. I am constantly seeking to learn and improve my abilities as a developer, and I am excited to continue building my career in the field.</h3>
 
 - 📫 How to reach me **contact@dineshdev.com**
 
