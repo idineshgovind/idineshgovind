@@ -1,5 +1,24 @@
 <h1>Hello World 👋, I'm Dinesh</h1>
-</h3>I am a 20 years old Android developer📱 with experience in Kotlin 👨‍💻. I have a strong foundation in programming principles and a passion for creating user-friendly mobile applications. In my past projects, I have utilized my skills in Kotlin and Android development to create and deliver successful apps to clients. I am constantly seeking to learn and improve my abilities as a developer, and I am excited to continue building my career in the field.</h3>
+
+<h3>About Me</h3>
+<p>I'm a Mobile Engineer at Zoho with 4+ years of experience building Android applications that focus on performance, usability, and real user impact.</p>
+
+<p>My core stack is Kotlin, Java, Jetpack Compose, and modern Android architecture. I'm currently expanding into Kotlin Multiplatform to build scalable cross-platform solutions and improve code reusability.</p>
+
+<p>I actively use AI tools in my development workflow to speed up implementation, explore better architectural approaches, and reduce repetitive work. Strong fundamentals still matter—but the way we build software is evolving, and I make sure I evolve with it.</p>
+
+<p>Beyond coding, I think from a product perspective: understanding user problems, refining feature details, and collaborating closely with design and product teams to ship meaningful improvements.</p>
+
+<p><strong>What I focus on:</strong></p>
+<ul>
+  <li>Android & modern app architecture</li>
+  <li>Kotlin & Java</li>
+  <li>Kotlin Multiplatform</li>
+  <li>AI-assisted development</li>
+  <li>Product-driven engineering</li>
+</ul>
+
+<p>I care about building things that are useful, maintainable, and built with intention.</p>
 
 - 📫 How to reach me **contact@dineshdev.com**
 
