@@ -1,24 +1,27 @@
 <h1>Hello World 👋, I'm Dinesh</h1>
 
 <h3>About Me</h3>
-<p>I'm a Mobile Engineer at Zoho with 4+ years of experience building Android applications that focus on performance, usability, and real user impact.</p>
+<p>I'm a Software Engineer at Zoho with 4+ years of experience building products that people use every day.</p>
 
-<p>My core stack is Kotlin, Java, Jetpack Compose, and modern Android architecture. I'm currently expanding into Kotlin Multiplatform to build scalable cross-platform solutions and improve code reusability.</p>
+<p>I started my journey as an Android developer, working with Kotlin, Java, Jetpack Compose, and modern Android architecture.</p>
 
-<p>I actively use AI tools in my development workflow to speed up implementation, explore better architectural approaches, and reduce repetitive work. Strong fundamentals still matter—but the way we build software is evolving, and I make sure I evolve with it.</p>
+<p>Today, I work across backend systems, mobile applications, and web applications.</p>
 
-<p>Beyond coding, I think from a product perspective: understanding user problems, refining feature details, and collaborating closely with design and product teams to ship meaningful improvements.</p>
+<p>I enjoy understanding how products work end to end. Whether it's backend services, mobile apps, or web experiences, I like solving real user problems and building features that make a difference.</p>
 
-<p><strong>What I focus on:</strong></p>
+<p>I also use AI tools in my daily workflow to learn faster, speed up development, and reduce repetitive work.</p>
+
+<p><strong>What I work with:</strong></p>
 <ul>
-  <li>Android & modern app architecture</li>
-  <li>Kotlin & Java</li>
-  <li>Kotlin Multiplatform</li>
-  <li>AI-assisted development</li>
-  <li>Product-driven engineering</li>
+  <li>Backend Engineering</li>
+  <li>Android Development</li>
+  <li>Web Applications</li>
+  <li>Java and Kotlin</li>
+  <li>AI Assisted Development</li>
+  <li>Product Focused Engineering</li>
 </ul>
 
-<p>I care about building things that are useful, maintainable, and built with intention.</p>
+<p>Always learning, always building.</p>
 
 - 📫 How to reach me **contact@dineshdev.com**
 
